@@ -25,3 +25,7 @@ Firefox (and forks) · CachyOS · Docker
 ---
 
 *New career, long game.*
+
+---
+
+*Kairo (καιρός): the right moment. Still debugging when that is.*
