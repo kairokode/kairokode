@@ -1,6 +1,6 @@
 # Hey, I'm Kairo 👋
 
-Career changer, wannabe deep-diver. I build small browser tools, live on Linux, and write down what breaks.
+I build small browser tools that solve real problems, mostly for Firefox. I write down what breaks so the next fix is easier.
 
 ## Currently
 
@@ -15,7 +15,7 @@ Career changer, wannabe deep-diver. I build small browser tools, live on Linux, 
 ## How I work
 
 - I'd rather understand something fully than ship it fast.
-- Mistakes happen in public. Issues, commits, and notes show the real process.
+- Issues, commits, and notes show the real process.
 - Small tools that solve real problems beat big ideas that never ship.
 
 ## Tools I use
