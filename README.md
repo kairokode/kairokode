@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Kairo 👋
 
-<!--
-**kairokode/kairokode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Career changer, wannabe deep-diver. I build small browser tools, live on Linux, and write down what breaks.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Extending [rtps-form-helper](https://github.com/kairokode/rtps-form-helper) to cover OBC and NCL certificate forms
+- Going deeper on CachyOS, Docker, and containerization
+
+## What I've built
+
+- [rtps-form-helper](https://github.com/kairokode/rtps-form-helper): Firefox extension that saves and fills Bihar RTPS forms in one click. Data stays local.
+- [firefox-extension](https://github.com/kairokode/firefox-extension): my first one, a simple popup. Where it started.
+
+## How I work
+
+- I'd rather understand something fully than ship it fast.
+- Mistakes happen in public. Issues, commits, and notes show the real process.
+- Small tools that solve real problems beat big ideas that never ship.
+
+## Tools I use
+
+Firefox (and forks) · CachyOS · Docker
+
+---
+
+*New career, long game.*
